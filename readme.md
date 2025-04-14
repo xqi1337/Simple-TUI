@@ -9,7 +9,7 @@ Ein einfaches Python-Konsolenprogramm, das zufällige Zahlen generiert, sortiert
 ```plaintext
 projekt/
 │
-├── main.py                  # Einstiegspunkt (Menü & Steuerung)
+├── main.py                  # Main (Menü & Steuerung)
 │
 ├── ui/
 │   ├── __init__.py          # Paket-Init für UI
